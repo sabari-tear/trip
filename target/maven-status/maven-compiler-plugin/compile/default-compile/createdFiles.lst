@@ -1,0 +1,8 @@
+com\trip\servlets\AdminServlet.class
+com\trip\servlets\LoginServlet.class
+com\trip\model\User.class
+com\trip\servlets\CoordinatorServlet.class
+com\trip\servlets\LogoutServlet.class
+com\trip\util\DBUtil.class
+com\trip\servlets\StudentServlet.class
+com\trip\model\TripProposal.class
